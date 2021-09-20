@@ -1,2 +1,2 @@
-# Small study app on ReactJS
+# Small TODO app on ReactJS
 ## https://helluv.github.io/react-todo/ try on github-pages
